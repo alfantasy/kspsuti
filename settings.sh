@@ -338,8 +338,10 @@ while true; do
             isp_settings
             ;;
         "2")
+            sw1_settings
             ;;
         "3")
+            sw2_settings
             ;;
         "4")
             echo -e "${GREEN}Выход из скрипта.${UNC}"
